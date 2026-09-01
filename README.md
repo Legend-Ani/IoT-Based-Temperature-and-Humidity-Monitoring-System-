@@ -1,1 +1,0 @@
-# IoT-Based-Temperature-and-Humidity-Monitoring-System-
